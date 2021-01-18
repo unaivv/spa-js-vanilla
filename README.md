@@ -9,5 +9,5 @@ npm start
 
 ```console
 npm install
-npm start
+npm run start
 ```
